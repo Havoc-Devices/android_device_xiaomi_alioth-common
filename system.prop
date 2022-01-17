@@ -140,8 +140,8 @@ ro.sf.blurs_are_expensive=1
 
 # Havoc 
 
-ro.havoc.device.name=Poco F3 / Xiaomi Mi11x / Xiaomi K40
-ro.havoc.group.url=https://t.me/havocalioth_in
+ro.havoc.device.name=Xiaomi Mi 11X / Redmi K40 / Poco F3
+ro.havoc.group.url=https://t.me/+lHrhajwm-HsyN2Q1
 ro.havoc.maintainer=Sukeerat Singh Goindi
 ro.havoc.maintainer.username=irongfly
 
